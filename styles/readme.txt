@@ -1,6 +1,10 @@
 1. El usuario elije una opción: Piedra,papel,tijera
 por medio de un botón.
 
+Piedra:1
+papel:2
+tijera:3
+
 2. la cpu elije de manera aleatoria su opción.
 
 3. Mostrar las opciones elegidas.
